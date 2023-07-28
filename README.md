@@ -27,11 +27,10 @@ Two main Machine Learning Algorihtm are used:
 
 ## How to Reach me :
 
-### Mail : vatshayan007@gmail.com 
+### Mail : buckuplearning@gmail.com
 
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### WhatsApp: **+91 9034372452** (Helping 24*7) 
 
-### Website : https://www.finalproject.in/
 
 ### 1000 Computer Science Projects : https://www.computer-science-project.in/
 
