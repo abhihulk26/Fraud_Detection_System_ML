@@ -31,9 +31,6 @@ Two main Machine Learning Algorihtm are used:
 
 ### WhatsApp: **+91 9034372452** (Helping 24*7) 
 
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
 Mail/Message me for Projects Help 🙏🏻
 
 ## Youtube Implementation Video : https://youtu.be/CiEnP4xE0dY
